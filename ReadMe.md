@@ -6,11 +6,13 @@ C'est un petit programme que j'ai essayé de faire pour de futurs jeux avec Tkin
 ## Modules utilisés : Pathfinding & Tkinter
 Je vous renvoie vers le module crée par @brean
 https://github.com/brean/python-pathfinding
-
 `pip install pathfinding`
 
 
 🇬🇧
-This is a little module I tryed to make for other games in Tkinter.
-Used the module : pathfinding to make it work; as it use the A* Algorithm. I hope you will be able to make it work ! 
-If you are able to play in song in tkinter, please explain how you did it :/ ! 
+
+This is a little program I tried to make for future games with Tkinter
+## Modules used: Pathfinding & Tkinter
+I refer you to the module created by @brean
+https://github.com/brean/python-pathfinding
+`pip install pathfinding`
