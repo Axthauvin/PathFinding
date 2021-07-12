@@ -1,6 +1,6 @@
 # Pathfinding
 
-:fr:
+🇫🇷
 
 C'est un petit programme que j'ai essayé de faire pour de futurs jeux avec Tkinter
 
