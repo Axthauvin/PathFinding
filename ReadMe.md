@@ -1,8 +1,11 @@
 # Pathfinding
 
-🇫🇷
+:fr:
 
 C'est un petit programme que j'ai essayé de faire pour de futurs jeux avec Tkinter
+## Modules utilisés : Pathfinding & Tkinter
+`<addr>`
+
 
 🇬🇧
 This is a little module I tryed to make for other games in Tkinter.
