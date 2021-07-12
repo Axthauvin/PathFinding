@@ -4,7 +4,7 @@
 
 C'est un petit programme que j'ai essayé de faire pour de futurs jeux avec Tkinter
 ## Modules utilisés : Pathfinding & Tkinter
-Je vous renvoie vers le module crée par @Brean
+Je vous renvoie vers le module crée par @brean
 https://github.com/brean/python-pathfinding
 
 `pip install pathfinding`
