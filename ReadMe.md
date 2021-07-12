@@ -12,7 +12,7 @@ https://github.com/brean/python-pathfinding
 🇬🇧
 
 This is a little program I tried to make for future games with Tkinter
-## Modules used: Pathfinding & Tkinter
+## Modules used: [Pathfinding](https://pypi.org/project/pathfinding/) & Tkinter
 I refer you to the module created by @brean
 https://github.com/brean/python-pathfinding
 `pip install pathfinding`
